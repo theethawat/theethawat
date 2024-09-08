@@ -2,7 +2,6 @@
 My name is Theethawat, you can easily call be as Tin 😀🐳, working as software developer and as student in Prince of Songkla University. 
 You can follow my life in IG [@tin_savastham](https://instagram.com/tin_savastham) 🎈🎉🎊 
 
-### `Unity in Diversity`
 
 
 <!--
