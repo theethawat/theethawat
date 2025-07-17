@@ -1,7 +1,13 @@
-### Hi This is Theethawat 👋
-My name is Theethawat, you can easily call be as Tin 😀🐳, working as software developer and as student in Prince of Songkla University. 
+### Hi this is Theethawat 👋
+My name is Theethawat, you can easily call be as **Tin** 😀🐳, a master's degree student in Computer Engineering at Prince of Songkla University. 
+Formally, the software developer.
+- 📌 Living in Hatyai, Songkhla, Thailand
+- 🔭 I’m currently working on neural networks and software development.
+- 🌱 I’m currently learning the LLM and automation.
+- 🌎 Visit My site at [theethawat.dev](https://theethawat.dev)
 You can follow my life in IG [@tin_savastham](https://instagram.com/tin_savastham) 🎈🎉🎊 
 
+[![Theethawat's GitHub stats](https://github-readme-stats.vercel.app/api?username=theethawat)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
