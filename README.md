@@ -2,8 +2,7 @@
 My name is Theethawat, you can easily call be as **Tin** 😀🐳, a master's degree student in Computer Engineering at Prince of Songkla University. 
 Formally, the software developer.
 - 📌 Living in Hatyai, Songkhla, Thailand
-- 🔭 I’m currently working on neural networks and software development.
-- 🌱 I’m currently learning the LLM and automation.
+- 🔭 I’m currently working on software development and neural networks.
 - 🌎 Visit My site at [theethawat.dev](https://theethawat.dev)
 You can follow my life in IG [@tin_savastham](https://instagram.com/tin_savastham) 🎈🎉🎊 
 
