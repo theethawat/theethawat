@@ -1,8 +1,10 @@
-### Hi this is Theethawat 👋
-My name is Theethawat, you can easily call be as **Tin** 😀🐳, a master's degree student in Computer Engineering at Prince of Songkla University. 
+### Hi, this is Tin 👋
+My name is Theethawat, you can easily call be as **Tin** 😀🐳, a research student in the Information Processing System Laboratory, University of Miyazaki. 
 Formally, the software developer.
-- 📌 Living in Hatyai, Songkhla, Thailand
-- 🔭 I’m currently working on software development and neural networks.
+- 🗺️ I am a Thai person, born in Yala Province. My home is in Songkhla, Thailand.
+- 🎓 Got a Bachelor of Engineering (Computer Engineering) and expected to get a Master's of Engineering from Prince of Songkla University, Thailand.
+- 🗾 Now Living in Miyazaki City, Miyazaki Prefecture, Japan.
+- 🔭 I’m currently working on software development, neural networks, and image processing.
 - 🌎 Visit My site at [theethawat.dev](https://theethawat.dev)
 You can follow my life in IG [@tin_savastham](https://instagram.com/tin_savastham) 🎈🎉🎊 
 
